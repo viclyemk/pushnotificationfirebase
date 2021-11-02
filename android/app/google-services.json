@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1038779876758",
+    "project_id": "lyebesquare",
+    "storage_bucket": "lyebesquare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038779876758:android:4419c46e0cc3eded09c9b7",
+        "android_client_info": {
+          "package_name": "com.example.exercise7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038779876758-lq9k809h36kki0ih62bbhbagse3anjfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kZXflfj1NPs6jzXD75KC14q4RyehX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038779876758-lq9k809h36kki0ih62bbhbagse3anjfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038779876758:android:aa6299f90add4bc709c9b7",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038779876758-lq9k809h36kki0ih62bbhbagse3anjfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kZXflfj1NPs6jzXD75KC14q4RyehX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038779876758-lq9k809h36kki0ih62bbhbagse3anjfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
